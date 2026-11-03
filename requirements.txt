@@ -1,0 +1,6 @@
+streamlit
+anthropic
+pillow
+pydantic
+requests
+gradio_client
